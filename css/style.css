@@ -166,26 +166,26 @@ header {
     display: flex;
     justify-content: space-between;
 }
-.nav ul.desktop-menu {
+.nav ul {
     list-style: none;
     margin: 0 50px 0 0;
     width: 146px;
 }
-.nav ul.desktop-menu li {
+.nav ul li {
     margin-bottom: 13px;
 }
-.nav ul.desktop-menu a {
+.nav ul a {
     text-decoration: none;
     color: #888888;
 }
-.nav ul.desktop-menu a:hover {
+.nav ul a:hover {
     color: black;
 }
-.nav ul.desktop-menu li.title a {
+.nav ul li.title a {
     color: black;
     text-transform: uppercase;
 }
-.nav ul.desktop-menu li.title a:hover {
+.nav ul li.title a:hover {
     color: #888888;
 }
 .aside {
